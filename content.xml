@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508180722WTLAQX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605081807227ADT87</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ensaio de Desempenho de Motor a Vapor</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marcelo Mendes Vieira</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Apresentação de um ensaio de desempenho de um motor a vapor</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>pt</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non derived work - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-nd/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778277053810</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moxg8rvl-vmfz7h1dh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Início</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Início</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Início</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvm-tzscgfwa5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Apresentação - Ensaio Motor a Vapor</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Apresentação - Ensaio Motor a Vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Apresentação - Ensaio Motor a Vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvm-tzscgfwa5</odePageId>
+      <odeBlockId>block-moxatc56-gae5mq3ha</odeBlockId>
+      <blockName>Ensaio de Desempenho de um Motor a Vapor</blockName>
+      <iconName>telescope</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvm-tzscgfwa5</odePageId>
+          <odeBlockId>block-moxatc56-gae5mq3ha</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-zgv3hox0v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>O motor a vapor está em uma bancada didática que é instrumentada para realizar as principais medições e analisar o desempenho desse motor a vapor.</p>
+<p>Inicialmente, no reservatório é adicionado 11,5 kg de água. Esta quantidade equivale aproximadamente 3/4 do volume desse reservatório.</p>
+<p>Por ser um vaso de pressão, em ocasião anterior, este reservatório já foi submetido a um teste hidrostático que requer o preenchimento total de água no reservatório, suprimindo qualquer presença de gás e, em seguida, é pressurizado a pressão de 1,5 a PMTA, aproximadamente.</p>
+<p>O ensaio de desempenho é efetuado em uma condição de regime quase permanente. Após a água aquecer e o funcionamento ocorre em uma condição de pressão de reservatório constante com vaporização, o ensaio é monitorado e medido os seus parâmetros.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>O motor a vapor está em uma bancada didática que é instrumentada para realizar as principais medições e analisar o desempenho desse motor a vapor.</p>\n<p>Inicialmente, no reservatório é adicionado 11,5 kg de água. Esta quantidade equivale aproximadamente 3/4 do volume desse reservatório.</p>\n<p>Por ser um vaso de pressão, em ocasião anterior, este reservatório já foi submetido a um teste hidrostático que requer o preenchimento total de água no reservatório, suprimindo qualquer presença de gás e, em seguida, é pressurizado a pressão de 1,5 a PMTA, aproximadamente.</p>\n<p>O ensaio de desempenho é efetuado em uma condição de regime quase permanente. Após a água aquecer e o funcionamento ocorre em uma condição de pressão de reservatório constante com vaporização, o ensaio é monitorado e medido os seus parâmetros.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvn-ijk3bzvcw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sequência de medições</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sequência de medições</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sequência de medições</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvn-ijk3bzvcw</odePageId>
+      <odeBlockId>block-moxatc56-79c83ae58</odeBlockId>
+      <blockName>Visão geral das medições e procedimento:</blockName>
+      <iconName>compass</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvn-ijk3bzvcw</odePageId>
+          <odeBlockId>block-moxatc56-79c83ae58</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-jssl2w3gk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/869895f3-70ea-8a4a-6d3f-0af1b2f52edb.svg" alt="Esquema da bancada do motor a vapor" title="Esquema da bancada do motor a vapor" width="640" height="439" /></p>
+<p>a) após certificar que a bancada entrou em funcionamento sob uma condição de regime permanente, ou seja, durante o funcionamento a pressão de reservatório se mantém constante, é iniciada a cronometragem e registradas as forças-peso dos dois dinamômetros;</p>
+<p>b) durante a operação do motor, sob monitoramento da pressão de reservatório, são medidas a rotação,  a amperagem da resistência elétrica que é ligada a 220 volts, pressão, temperaturas e força-freio que determina o torque de eixo do motor;</p>
+<p>c) após 20 a 30 minutos, é registrada novamente as medidas das forças-peso dos dois dinamômetros e o tempo de registro para se determinar a quantidade de vapor consumida no motor.</p>
+<p>Nas seções seguintes são vistas as medições e os procedimentos efetuados para isso.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/869895f3-70ea-8a4a-6d3f-0af1b2f52edb.svg\" alt=\"Esquema da bancada do motor a vapor\" title=\"Esquema da bancada do motor a vapor\" width=\"640\" height=\"439\" /></p>\n<p>a) após certificar que a bancada entrou em funcionamento sob uma condição de regime permanente, ou seja, durante o funcionamento a pressão de reservatório se mantém constante, é iniciada a cronometragem e registradas as forças-peso dos dois dinamômetros;</p>\n<p>b) durante a operação do motor, sob monitoramento da pressão de reservatório, são medidas a rotação,  a amperagem da resistência elétrica que é ligada a 220 volts, pressão, temperaturas e força-freio que determina o torque de eixo do motor;</p>\n<p>c) após 20 a 30 minutos, é registrada novamente as medidas das forças-peso dos dois dinamômetros e o tempo de registro para se determinar a quantidade de vapor consumida no motor.</p>\n<p>Nas seções seguintes são vistas as medições e os procedimentos efetuados para isso.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvn-6o0fkn432</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Medição de consumo de vapor</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de consumo de vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de consumo de vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvn-6o0fkn432</odePageId>
+      <odeBlockId>block-moxatc56-wcaw5ac5q</odeBlockId>
+      <blockName>Consumo de vapor</blockName>
+      <iconName>list</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvn-6o0fkn432</odePageId>
+          <odeBlockId>block-moxatc56-wcaw5ac5q</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-9eg9m1fcn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/b1730cbe-6eeb-f08b-aba2-2c8d6f0ca78b.svg" alt="Esquema de medicao de consumo de vapor" title="Esquema de medicao de consumo de vapor" width="641" height="360" /></p>
+<p>Dois dinamômetros registram a força-peso.</p>
+<p>Em determinado tempo, essa força-peso diminui em função da perda de massa de água no gerador de vapor (ou reservatório).</p>
+<p>A diferença das forças-peso inicial (i) e final (f) equivalem a quantidade de massa que foi dirigida ao motor a vapor.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/b1730cbe-6eeb-f08b-aba2-2c8d6f0ca78b.svg\" alt=\"Esquema de medicao de consumo de vapor\" title=\"Esquema de medicao de consumo de vapor\" width=\"641\" height=\"360\" /></p>\n<p>Dois dinamômetros registram a força-peso.</p>\n<p>Em determinado tempo, essa força-peso diminui em função da perda de massa de água no gerador de vapor (ou reservatório).</p>\n<p>A diferença das forças-peso inicial (i) e final (f) equivalem a quantidade de massa que foi dirigida ao motor a vapor.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvo-fygsv394x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Medição de corrente elétrica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de corrente elétrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de corrente elétrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvo-fygsv394x</odePageId>
+      <odeBlockId>block-moxatc56-3wor433j3</odeBlockId>
+      <blockName>Medição da corrente elétrica da resistência elétrica</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvo-fygsv394x</odePageId>
+          <odeBlockId>block-moxatc56-3wor433j3</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-a5dqonfur</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A resistência elétrica é alimentada com uma tensão de 220 volts.</p>
+<p>Para sabermos a potência que é destinada à resistência elétrica, é necessário obter a medição da corrente elétrica ou amperagem. No vídeo é apresentado o procedimento da medição.</p>
+<p><video width="360" height="640" controls="controls" class="mediaelement">
+<source src="{{context_path}}/content/resources/20210714_114809c.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A resistência elétrica é alimentada com uma tensão de 220 volts.</p>\n<p>Para sabermos a potência que é destinada à resistência elétrica, é necessário obter a medição da corrente elétrica ou amperagem. No vídeo é apresentado o procedimento da medição.</p>\n<p><video width=\"360\" height=\"640\" controls=\"controls\" class=\"mediaelement\">\n<source src=\"{{context_path}}/content/resources/20210714_114809c.mp4\" type=\"video/mp4\" /></video></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvq-gejjzo26b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pressão do Gerador de Vapor</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pressão do Gerador de Vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pressão do Gerador de Vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvq-gejjzo26b</odePageId>
+      <odeBlockId>block-moxatc56-cylq4n8q6</odeBlockId>
+      <blockName>Pressão do Gerador de Vapor</blockName>
+      <iconName>edia</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvq-gejjzo26b</odePageId>
+          <odeBlockId>block-moxatc56-cylq4n8q6</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-4g6ipxwuj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/6560794c-f60e-0da7-b0ae-8824fcfc39d2.svg" alt="manometro e valvula de seguranca" title="manometro e valvula de seguranca" width="280" height="469" /></p>
+<p>O manômetro registra uma pressão manométrica que somada a pressão atmosférica equivale a <strong>pressão de vaporização</strong>.</p>
+<p>Na linha também uma válvula de segurança e uma válvula de controle de fluxo.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/6560794c-f60e-0da7-b0ae-8824fcfc39d2.svg\" alt=\"manometro e valvula de seguranca\" title=\"manometro e valvula de seguranca\" width=\"280\" height=\"469\" /></p>\n<p>O manômetro registra uma pressão manométrica que somada a pressão atmosférica equivale a <strong>pressão de vaporização</strong>.</p>\n<p>Na linha também uma válvula de segurança e uma válvula de controle de fluxo.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvr-7t4bf7cex</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Medição de Torque</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de Torque</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de Torque</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvr-7t4bf7cex</odePageId>
+      <odeBlockId>block-moxatc56-3iuqoj2vk</odeBlockId>
+      <blockName>Esquema da medição de torque</blockName>
+      <iconName>gears</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvr-7t4bf7cex</odePageId>
+          <odeBlockId>block-moxatc56-3iuqoj2vk</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-w47vyj7kk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/26cc29d1-ae84-eaf2-6343-3cbd902519a2.svg" alt="registro da forca freio" title="registro da forca freio" width="280" height="428" /></p>
+<p>Através da força-freio e da distância dessa força com o centro do eixo do motor é obtido o torque.</p>
+<p>Como nota, a força-freio não é medida diretamente e existe um sistema de alavanca que faz a relação da força medida no dinamômetro com a força-freio.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/26cc29d1-ae84-eaf2-6343-3cbd902519a2.svg\" alt=\"registro da forca freio\" title=\"registro da forca freio\" width=\"280\" height=\"428\" /></p>\n<p>Através da força-freio e da distância dessa força com o centro do eixo do motor é obtido o torque.</p>\n<p>Como nota, a força-freio não é medida diretamente e existe um sistema de alavanca que faz a relação da força medida no dinamômetro com a força-freio.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvs-mnlndf8mc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Imagens</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Imagens</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Imagens</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvs-mnlndf8mc</odePageId>
+      <odeBlockId>block-moxatc56-incmj78n0</odeBlockId>
+      <blockName>Image Gallery</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvs-mnlndf8mc</odePageId>
+          <odeBlockId>block-moxatc56-incmj78n0</odeBlockId>
+          <odeIdeviceId>idevice-moxatc56-7q3shytsx</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"img_0":{"img":"{{context_path}}/content/resources/a6923cfc-80d9-1b38-afa5-c50068f4a1cb.jpg","thumbnail":"{{context_path}}/content/resources/b4e59541-36c9-2d1c-1a56-67b18e71a3c5.png","title":"medição de rotação <br><br> com visualização do sistema de alavanca e dinamômetro","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/b7557663-7b10-9c98-8323-913703426a26.jpg","thumbnail":"{{context_path}}/content/resources/e7cd3d93-3775-df16-ac89-ceb2063168f3.png","title":"tacômetro digital, <br><br>    marca Politerm,  modelo DT-6236B","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/20210628_144038b.jpg","thumbnail":"{{context_path}}/content/resources/20210628_144038bThumbnail.png","title":"indicação da rotação<br><br> e a tensão de frenagem","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/92f1a03b-3e1f-dff0-1432-21959b988cfe.jpg","thumbnail":"{{context_path}}/content/resources/8b18f9be-492f-a8e9-aa97-04886ade6787.png","title":"esquema da medição da frenagem","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/e4449d40-5371-668d-698c-f7bc52ba6ab0.jpg","thumbnail":"{{context_path}}/content/resources/f3bf2d8d-a3df-d9b2-e52b-a90faed9900c.png","title":"dinamômetro 0-500gf <br><br> para medir F<sub>medido","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/757b1f43-b294-58e9-70f0-be803a04aff0.jpg","thumbnail":"{{context_path}}/content/resources/afc14112-fa80-89f5-8daa-d78fdae6f529.png","title":"dinamômetro estendido em função da força de frenagem atuante na alavanca","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/6b24be86-2836-9abc-121e-59af416a876f.jpg","thumbnail":"{{context_path}}/content/resources/9c2ed611-b0ee-2b0a-864e-252948a41cff.png","title":"dinamômetro 0-1000gf - fica do lado esquerdo para medição de mudança de massa","linktitle":"","author":"","linkauthor":"","license":""},"img_7":{"img":"{{context_path}}/content/resources/80274ddf-c9b4-4134-c8a6-7dec3ebaa130.png","thumbnail":"{{context_path}}/content/resources/079c8874-8d65-d326-e9b5-a35f9b619844.png","title":"esquema da pesagem com dinamômetros de 0-1000gf","linktitle":"","author":"","linkauthor":"","license":""},"img_8":{"img":"{{context_path}}/content/resources/ca12e4ec-5555-5e42-e499-7d98cc81a6c0.jpg","thumbnail":"{{context_path}}/content/resources/3f352298-68dc-518e-db99-00f7a9d3546d.png","title":"dinamômetro 0-1000gf - fica do lado direito para medição de mudança de massa","linktitle":"","author":"","linkauthor":"","license":""},"img_9":{"img":"{{context_path}}/content/resources/fa0cba5f-b143-addc-ded9-4741fa2dcffb.jpg","thumbnail":"{{context_path}}/content/resources/7f15fec5-f595-7310-f2a4-728a2e7039f2.png","title":"medição de temperatura <br><br> marca ICEL, modelo TD-801","linktitle":"","author":"","linkauthor":"","license":""},"img_10":{"img":"{{context_path}}/content/resources/24e2d844-7736-7978-94a2-5ba389f86928.png","thumbnail":"{{context_path}}/content/resources/Captura de tela de VID_20210625_164858.3gpThumbnail.png","title":"manômetro de pressão da linha e reservatório","linktitle":"","author":"","linkauthor":"","license":""},"img_11":{"img":"{{context_path}}/content/resources/088e257c-65af-da45-bf44-4722d6f2c131.jpg","thumbnail":"{{context_path}}/content/resources/78875bbc-4834-781e-5884-fda511d6d796.png","title":"manômetro de pressão da linha<br><br> à direita e abaixo está a válvula de segurança","linktitle":"","author":"","linkauthor":"","license":""},"img_12":{"img":"{{context_path}}/content/resources/beb29dc8-3702-ffd5-8f6b-fbc76215e28d.jpg","thumbnail":"{{context_path}}/content/resources/1400a300-da3e-3f4e-595b-65406a8c5a41.png","title":"termostato que liga em série com a resistência elétrica","linktitle":"","author":"","linkauthor":"","license":""},"img_13":{"img":"{{context_path}}/content/resources/5b6f853d-fa2f-3b8a-3ea5-0766965ce82d.jpg","thumbnail":"{{context_path}}/content/resources/593ec28c-980b-419d-f91a-1c6b6ed4f47a.png","title":"Ligação do termostato:<br><br> http://dicasesquemas.blogspot.com/2011/10/o-que-e-para-que-serve-como-funcionam.html <br><br> acesso em julho de 2021","linktitle":"","author":"","linkauthor":"","license":""},"img_14":{"img":"{{context_path}}/content/resources/2f0991e1-e98c-2b57-7513-1d5462e8b382.png","thumbnail":"{{context_path}}/content/resources/1a5c4d24-a126-8d07-739a-d11f67fd139a.png","title":"Termômetro ICEL TD-801","linktitle":"","author":"","linkauthor":"","license":""},"img_15":{"img":"{{context_path}}/content/resources/amperimetro.jpg","thumbnail":"{{context_path}}/content/resources/amperimetroThumbnail.png","title":"Amperímetro de Alicate","linktitle":"","author":"","linkauthor":"","license":""},"img_16":{"img":"{{context_path}}/content/resources/bancada_vapor.jpg","thumbnail":"{{context_path}}/content/resources/bancada_vaporThumbnail.png","title":"Bancada do Motor a Vapor","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvt-wgw24ky4v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Medição de torque</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de torque</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de torque</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvt-wgw24ky4v</odePageId>
+      <odeBlockId>block-moxatc57-p6rzn7667</odeBlockId>
+      <blockName>Medição de torque com vídeo</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvt-wgw24ky4v</odePageId>
+          <odeBlockId>block-moxatc57-p6rzn7667</odeBlockId>
+          <odeIdeviceId>idevice-moxatc57-nnbilx42p</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-moxatc57-nnbilx42p" data-evaluationb="false" data-evaluationid="1597a9c3-3a61-4605-bc3d-79582e795657"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=XomGz3QQaX8">com/watch?v=XomGz3QQaX8</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"image","url":"{{context_path}}/content/resources/20210628_144038b.jpg","description":"esquema da força de frenagem atuante","startTime":33},{"type":"image","url":"{{context_path}}/content/resources/92f1a03b-3e1f-dff0-1432-21959b988cfe.jpg","description":"alavanca de frenagem","startTime":67},{"type":"singleChoice","question":"<p>A força de frenagem é:</p>","answers":[["4,118 vezes menor que a força medida no dinamômetro",1],["4,118 vezes maior que a força medida no dinamômetro",0],["igual à força medida no dinamômetro",0]],"startTime":78}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgYouScore":"Sua pontuação","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgTypeGame":"Vídeo interativo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"title":"Força de frenagem para medição de torque do motor","description":"","scorm":{"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"1597a9c3-3a61-4605-bc3d-79582e795657","ideviceID":"idevice-moxatc57-nnbilx42p"}				</script>			</div><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/20210628_144038b.jpg" id="exe-interactive-video-img-0" alt="" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/92f1a03b-3e1f-dff0-1432-21959b988cfe.jpg" id="exe-interactive-video-img-1" alt="" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"image","url":0,"description":"esquema da força de frenagem atuante","startTime":33},{"type":"image","url":1,"description":"alavanca de frenagem","startTime":67},{"type":"singleChoice","question":"<p>A força de frenagem é:</p>","answers":[["4,118 vezes menor que a força medida no dinamômetro",1],["4,118 vezes maior que a força medida no dinamômetro",0],["igual à força medida no dinamômetro",0]],"startTime":78}],"title":"Força de frenagem para medição de torque do motor","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-59"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvt-eylusrd0x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Medição de rotação</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de rotação</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medição de rotação</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvt-eylusrd0x</odePageId>
+      <odeBlockId>block-moxatc58-uc6qg7793</odeBlockId>
+      <blockName>Medição de rotação</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvt-eylusrd0x</odePageId>
+          <odeBlockId>block-moxatc58-uc6qg7793</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-i4bw5admi</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video"><p id="exe-interactive-video-file" class="js-hidden"><a href="{{context_path}}/content/resources/VID_20210625_164257.mp4">mp4</a></p><script id="exe-interactive-video-contents" type="application/json">{"slides":[{"type":"image","url":0,"description":"tacômetro","startTime":78},{"type":"singleChoice","question":"<p>Qual é o nome do instrumento que mede rotação?</p>","answers":[["rotâmetro",0],["tacômetro",1],["velocímetro",0]],"startTime":80}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"title":"Medição de Rotação","description":""}</script></div><p class="sr-av"><video width="320" height="480" controls="controls" class="mediaelement"><source src="{{context_path}}/content/resources/VID_20210625_164257.mp4" /></video></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/Captura_de_tela_de_VID_20210625_164529.mp4.png" id="exe-interactive-video-img-0" alt="" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"image","url":0,"description":"tacômetro","startTime":78},{"type":"singleChoice","question":"<p>Qual é o nome do instrumento que mede rotação?</p>","answers":[["rotâmetro",0],["tacômetro",1],["velocímetro",0]],"startTime":80}],"title":"Medição de Rotação","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-64"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvt-wbihux7ka</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Funcionamento</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Funcionamento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Funcionamento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvt-wbihux7ka</odePageId>
+      <odeBlockId>block-moxatc58-tktg0tu4e</odeBlockId>
+      <blockName>Funcionamento</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvt-wbihux7ka</odePageId>
+          <odeBlockId>block-moxatc58-tktg0tu4e</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-czwifzgaj</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video"><p id="exe-interactive-video-file" class="js-hidden"><a href="{{context_path}}/content/resources/VID_20210625_164858.mp4">mp4</a></p><script id="exe-interactive-video-contents" type="application/json">{"slides":[{"type":"image","url":0,"description":"esquema do reservatório","startTime":20},{"type":"image","url":1,"description":"pressao da linha e do gerador de vapor","startTime":40},{"type":"singleChoice","question":"<p>Se a pressão atmosférica fosse de 1 kgf/cm², qual seria a <strong>pressão absoluta do gerador de vapor</strong> que esteja a 1,1 kgf/cm² indicado pelo manômetro?</p>","answers":[["1,0 kgf/cm²",0],["1,1 kgf/cm²",0],["2,1 kgf/cm²",1]],"startTime":74}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"title":"Visão geral de funcionamento","description":""}</script></div><p class="sr-av"><video width="320" height="480" controls="controls" class="mediaelement"><source src="{{context_path}}/content/resources/VID_20210625_164858.mp4" /></video></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/80274ddf-c9b4-4134-c8a6-7dec3ebaa130.png" id="exe-interactive-video-img-0" alt="" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/c864dc01-291b-bc22-0c5c-b19e30e4bcc8.png" id="exe-interactive-video-img-1" alt="" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"image","url":0,"description":"esquema do reservatório","startTime":20},{"type":"image","url":1,"description":"pressao da linha e do gerador de vapor","startTime":40},{"type":"singleChoice","question":"<p>Se a pressão atmosférica fosse de 1 kgf/cm², qual seria a <strong>pressão absoluta do gerador de vapor</strong> que esteja a 1,1 kgf/cm² indicado pelo manômetro?</p>","answers":[["1,0 kgf/cm²",0],["1,1 kgf/cm²",0],["2,1 kgf/cm²",1]],"startTime":74}],"title":"Visão geral de funcionamento","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-69"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvu-yq3us4nan</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Registro de consumo de vapor</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Registro de consumo de vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Registro de consumo de vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvu-yq3us4nan</odePageId>
+      <odeBlockId>block-moxatc58-32ib3foxg</odeBlockId>
+      <blockName>Indicação dos dinamômetros para medição do consumo de vapor</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvu-yq3us4nan</odePageId>
+          <odeBlockId>block-moxatc58-32ib3foxg</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-jwr7726ya</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video"><p id="exe-interactive-video-file" class="js-hidden"><a href="{{context_path}}/content/resources/VID_20210625_165109.mp4">mp4</a></p><script id="exe-interactive-video-contents" type="application/json">{"slides":[{"type":"image","url":0,"description":"pesagem","startTime":62},{"type":"singleChoice","question":"<p>Qual é a massa de vapor consumida?</p>\n<p>Dados:</p>\n<ul>\n<li>Dinamômetro 1: 540 gf</li>\n<li>Dinamômetro 2: 520 gf\n<ul>\n<li>Após 25 minutos</li>\n</ul>\n</li>\n<li>Dinamômetro 1: 430 gf</li>\n<li>Dinamômetro 2: 410 gf</li>\n</ul>","answers":[["110 gramas/hora",0],["220 gramas/minuto",0],["528 gramas/hora",1],["264 gramas/hora",0],["132 gramas/hora",0]],"startTime":63}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"title":"Indicação dos dinamômetros que acusam o consumo de vapor durante o funcionamento","description":""}</script></div><p class="sr-av"><video width="320" height="480" controls="controls" class="mediaelement"><source src="{{context_path}}/content/resources/VID_20210625_165109.mp4" /></video></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/80274ddf-c9b4-4134-c8a6-7dec3ebaa130.png" id="exe-interactive-video-img-0" alt="" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"image","url":0,"description":"pesagem","startTime":62},{"type":"singleChoice","question":"<p>Qual é a massa de vapor consumida?</p>\n<p>Dados:</p>\n<ul>\n<li>Dinamômetro 1: 540 gf</li>\n<li>Dinamômetro 2: 520 gf\n<ul>\n<li>Após 25 minutos</li>\n</ul>\n</li>\n<li>Dinamômetro 1: 430 gf</li>\n<li>Dinamômetro 2: 410 gf</li>\n</ul>","answers":[["110 gramas/hora",0],["220 gramas/minuto",0],["528 gramas/hora",1],["264 gramas/hora",0],["132 gramas/hora",0]],"startTime":63}],"title":"Indicação dos dinamômetros que acusam o consumo de vapor durante o funcionamento","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-74"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvu-5wg9uaygl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sistemas de segurança</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sistemas de segurança</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sistemas de segurança</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvu-5wg9uaygl</odePageId>
+      <odeBlockId>block-moxatc58-sahvuqe3p</odeBlockId>
+      <blockName>Interactive Video</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvu-5wg9uaygl</odePageId>
+          <odeBlockId>block-moxatc58-sahvuqe3p</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-p4ga61531</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-moxatc58-p4ga61531" data-evaluationb="false" data-evaluationid="1597a9c3-3a61-4605-bc3d-79582e795657"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=zqj5URDfVkA">com/watch?v=zqj5URDfVkA</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"singleChoice","question":"<p>Qual é a válvula que é aberta quando a pressão excede a ordem de 10% (ou conforme a norma) a PMTA - pressão máxima de trabalho admissível na linha de vapor?</p>","answers":[["válvula de segurança",1],["válvula de alívio",0]],"startTime":27,"current":false},{"type":"singleChoice","question":"<p>Qual é o dispositivo que é ligado ou desligado eletricamente, conforme a sua regulagem, ao ter a leitura de temperatura do sistema?</p>","answers":[["termostato",1],["pressostato",0],["torquímetro",0]],"startTime":98,"current":false},{"type":"singleChoice","question":"<p>Se o nível da caldeira está muito baixo, o que você deve fazer para retomar o funcionamento?</p>","answers":[["imediatamente aciona o bombeamento de água de alimentação da caldeira",0],["espera baixar todo o nível de água da caldeira",0],["espera esfriar a caldeira para retomar o nível",1]],"startTime":127,"current":false},{"type":"text","text":"<p>A adição de água na caldeira que funcionou muito tempo com nível baixo pode fazer um acúmulo de energia térmica expressivo nas partes metálicas da caldeira que, ao ser preenchida com água, cederá repentinamente o calor para essa água que adentrou, logo, isso pode incorrer em uma evaporação repentina com energia suficiente para explodir.</p>","startTime":143,"current":false}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgYouScore":"Sua pontuação","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgTypeGame":"Vídeo interativo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"title":"sistemas de segurança","description":"","scorm":{"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"1597a9c3-3a61-4605-bc3d-79582e795657","ideviceID":"idevice-moxatc58-p4ga61531"}				</script>			</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"singleChoice","question":"<p>Qual é a válvula que é aberta quando a pressão excede a ordem de 10% (ou conforme a norma) a PMTA - pressão máxima de trabalho admissível na linha de vapor?</p>","answers":[["válvula de segurança",1],["válvula de alívio",0]],"startTime":27},{"type":"singleChoice","question":"<p>Qual é o dispositivo que é ligado ou desligado eletricamente, conforme a sua regulagem, ao ter a leitura de temperatura do sistema?</p>","answers":[["termostato",1],["pressostato",0],["torquímetro",0]],"startTime":98},{"type":"singleChoice","question":"<p>Se o nível da caldeira está muito baixo, o que você deve fazer para retomar o funcionamento?</p>","answers":[["imediatamente aciona o bombeamento de água de alimentação da caldeira",0],["espera baixar todo o nível de água da caldeira",0],["espera esfriar a caldeira para retomar o nível",1]],"startTime":127},{"type":"text","text":"<p>A adição de água na caldeira que funcionou muito tempo com nível baixo pode fazer um acúmulo de energia térmica expressivo nas partes metálicas da caldeira que, ao ser preenchida com água, cederá repentinamente o calor para essa água que adentrou, logo, isso pode incorrer em uma evaporação repentina com energia suficiente para explodir.</p>","startTime":143}],"title":"sistemas de segurança","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-79"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvu-o7q7eawso</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga de vapor</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga de vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga de vapor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvu-o7q7eawso</odePageId>
+      <odeBlockId>block-moxatc58-cg2hoxw2c</odeBlockId>
+      <blockName>descarga de vapor</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvu-o7q7eawso</odePageId>
+          <odeBlockId>block-moxatc58-cg2hoxw2c</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-7f3fc9kpx</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video"><p id="exe-interactive-video-file" class="js-hidden"><a href="{{context_path}}/content/resources/VID_20210625_170000.mp4">mp4</a></p><script id="exe-interactive-video-contents" type="application/json">{"slides":[{"type":"text","text":"<p>apresentando a descarga de vapor</p>","startTime":20}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"title":"Descarga de vapor","description":""}</script></div><p class="sr-av"><video width="320" height="240" controls="controls" class="mediaelement"><source src="{{context_path}}/content/resources/VID_20210625_170000.mp4" /></video></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"text","text":"<p>apresentando a descarga de vapor</p>","startTime":20}],"title":"Descarga de vapor","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-83"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvv-3lptzq4ms</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>medições de temperatura</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>medições de temperatura</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>medições de temperatura</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvv-3lptzq4ms</odePageId>
+      <odeBlockId>block-moxatc58-aqth1cl5y</odeBlockId>
+      <blockName>Interactive Video</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvv-3lptzq4ms</odePageId>
+          <odeBlockId>block-moxatc58-aqth1cl5y</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-g12qp0vq6</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-moxatc58-g12qp0vq6" data-evaluationb="false" data-evaluationid="1597a9c3-3a61-4605-bc3d-79582e795657"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=zN3IpjylyRE">com/watch?v=zN3IpjylyRE</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"singleChoice","question":"<p>Pela tabela termodinâmica de vapor, qual é a temperatura do vapor vivo, na condição de saturação, se a pressão atmosférica é de 97 kPa e a pressão manométrica é de 103 kPa?</p>","answers":[["99 oC",0],["200 oC",0],["103 oC",0],["120 oC",1]],"startTime":34}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgYouScore":"Sua pontuação","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgTypeGame":"Vídeo interativo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"title":"análise da temperatura em diversos pontos","description":"","scorm":{"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"1597a9c3-3a61-4605-bc3d-79582e795657","ideviceID":"idevice-moxatc58-g12qp0vq6"}				</script>			</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"singleChoice","question":"<p>Pela tabela termodinâmica de vapor, qual é a temperatura do vapor vivo, na condição de saturação, se a pressão atmosférica é de 97 kPa e a pressão manométrica é de 103 kPa?</p>","answers":[["99 oC",0],["200 oC",0],["103 oC",0],["120 oC",1]],"startTime":34}],"title":"análise da temperatura em diversos pontos","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-87"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvv-ib2nt1h8e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Condição de saturação</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Condição de saturação</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Condição de saturação</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvv-ib2nt1h8e</odePageId>
+      <odeBlockId>block-moxatc58-863upvylk</odeBlockId>
+      <blockName>Presença de vapor e líquido no gerador de vapor</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvv-ib2nt1h8e</odePageId>
+          <odeBlockId>block-moxatc58-863upvylk</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-hickasq4v</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video"><p id="exe-interactive-video-file" class="js-hidden"><a href="{{context_path}}/content/resources/VID_20210625_170911.mp4">mp4</a></p><script id="exe-interactive-video-contents" type="application/json">{"slides":[{"type":"singleChoice","question":"<p>Pela tabela termodinâmica de vapor, qual é a temperatura do vapor vivo, na condição de saturação, se a pressão atmosférica é de 100 kPa e a pressão manométrica é de 150 kPa?</p>","answers":[["150 oC",0],["127 oC",1],["250 oC",0],["137 oC",0]],"startTime":30}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"title":"presença de duas fases: líquido + vapor","description":""}</script></div><p class="sr-av"><video width="320" height="480" controls="controls" class="mediaelement"><source src="{{context_path}}/content/resources/VID_20210625_170911.mp4" /></video></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"singleChoice","question":"<p>Pela tabela termodinâmica de vapor, qual é a temperatura do vapor vivo, na condição de saturação, se a pressão atmosférica é de 100 kPa e a pressão manométrica é de 150 kPa?</p>","answers":[["150 oC",0],["127 oC",1],["250 oC",0],["137 oC",0]],"startTime":30}],"title":"presença de duas fases: líquido + vapor","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-91"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvw-jstwz5xxg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atuação da alavanca de freio</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atuação da alavanca de freio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atuação da alavanca de freio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvw-jstwz5xxg</odePageId>
+      <odeBlockId>block-moxatc58-6vswbwvfq</odeBlockId>
+      <blockName>Atuação da alavanca de freio</blockName>
+      <iconName>presentation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvw-jstwz5xxg</odePageId>
+          <odeBlockId>block-moxatc58-6vswbwvfq</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-7artzbxn1</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video"><p id="exe-interactive-video-file" class="js-hidden"><a href="{{context_path}}/content/resources/VID_20210625_171040.mp4">mp4</a></p><script id="exe-interactive-video-contents" type="application/json">{"slides":[{"type":"image","url":0,"description":"alavanca de freio","startTime":29}],"i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"title":"atuação do freio-motor","description":""}</script></div><p class="sr-av"><video width="320" height="480" controls="controls" class="mediaelement"><source src="{{context_path}}/content/resources/VID_20210625_171040.mp4" /></video></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/92f1a03b-3e1f-dff0-1432-21959b988cfe.jpg" id="exe-interactive-video-img-0" alt="" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"slides":[{"type":"image","url":0,"description":"alavanca de freio","startTime":29}],"title":"atuação do freio-motor","description":"","coverType":"text","i18n":{"start":"Início","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"veja todos os slides e responda a todas as perguntas","noSlides":"Este vídeo não tem slides interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Só é permitido um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de ecrã completo (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, finalize a atividade","check":"Marcar","newWindow":"Nova janela"},"scorm":{},"scoreNIA":false,"evaluation":false,"evaluationID":"","ideviceID":"idevice-95"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvx-4v3l37xat</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Visão do motor sem o freio</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Visão do motor sem o freio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Visão do motor sem o freio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvx-4v3l37xat</odePageId>
+      <odeBlockId>block-moxatc58-k8i31bzf9</odeBlockId>
+      <blockName>Funcionamento do motor a vapor sem o freio</blockName>
+      <iconName>bulb</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvx-4v3l37xat</odePageId>
+          <odeBlockId>block-moxatc58-k8i31bzf9</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-yonne3yv4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<figure class="exe-figure exe-media" style="width: 320px; text-align: left;">
+<figcaption class="figcaption header"><strong>Funcionamento sem o freio</strong></figcaption>
+<video width="640" height="320" controls="controls" class="mediaelement" data-mce-fragment="1">
+<source src="{{context_path}}/content/resources/WhatsApp_Video_2021-03-29_at_21.25.06.mp4" type="video/mp4" /></video></figure>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<figure class=\"exe-figure exe-media\" style=\"width: 320px; text-align: left;\">\n<figcaption class=\"figcaption header\"><strong>Funcionamento sem o freio</strong></figcaption>\n<video width=\"640\" height=\"320\" controls=\"controls\" class=\"mediaelement\" data-mce-fragment=\"1\">\n<source src=\"{{context_path}}/content/resources/WhatsApp_Video_2021-03-29_at_21.25.06.mp4\" type=\"video/mp4\" /></video></figure>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moxg8rvx-4v3l37xat</odePageId>
+      <odeBlockId>block-moxatc58-kv63vif8n</odeBlockId>
+      <blockName>Funcionamento com o freio sem a medição de frenagem</blockName>
+      <iconName>camera</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvx-4v3l37xat</odePageId>
+          <odeBlockId>block-moxatc58-kv63vif8n</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-kwu4r7mla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="320" height="640" src="https://www.youtube.com/embed/Zb7dUMPQVOk" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-moxatc58-kwu4r7mla","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><iframe width=\"320\" height=\"640\" src=\"https://www.youtube.com/embed/Zb7dUMPQVOk\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvy-izmtsanhi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Documento orientativo</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Documento orientativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Documento orientativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvy-izmtsanhi</odePageId>
+      <odeBlockId>block-moxatc58-chmynn02h</odeBlockId>
+      <blockName>Arquivos anexos</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvy-izmtsanhi</odePageId>
+          <odeBlockId>block-moxatc58-chmynn02h</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-yr8ehf5ka</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Documento orientativo para realização do relatório.</p><p><a href="{{context_path}}/content/resources/34f2d803-36a5-f838-f758-38e6f228731a.odt" target="_blank" download="Orientacao_Relatorio_Vapor.odt">Orientacao_Relatorio_Vapor.odt</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Documento orientativo para realização do relatório.</p><p><a href=\"{{context_path}}/content/resources/34f2d803-36a5-f838-f758-38e6f228731a.odt\" target=\"_blank\" download=\"Orientacao_Relatorio_Vapor.odt\">Orientacao_Relatorio_Vapor.odt</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxg8rvy-pufyi14gn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Dados experimentais</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Dados experimentais</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Dados experimentais</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxg8rvy-pufyi14gn</odePageId>
+      <odeBlockId>block-moxatc58-l7vewqtpq</odeBlockId>
+      <blockName>Dados experimentais para relatório</blockName>
+      <iconName>list</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxg8rvy-pufyi14gn</odePageId>
+          <odeBlockId>block-moxatc58-l7vewqtpq</odeBlockId>
+          <odeIdeviceId>idevice-moxatc58-5k27wzgey</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Dia:_<u>25/06/2021</u>_</p>
+<p>Hora:_<u>16:35</u>_</p>
+<table width="69.3281%" cellpadding="4" cellspacing="0" style="width: 65.8109%;" border="1">
+<tbody>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p><strong>Leitura</strong></p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p><strong>Unidade</strong></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p><strong>Precisão</strong></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p></p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Corrente:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>9,9</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>A</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Tensão:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>220</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>volts</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Pressão na linha :</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>1,25</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>kgf/cm²</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p></p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Temperatura na saída do motor a vapor:</p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>99,1</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>oC</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p></p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Peso inicial:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>Dina 1: 480 gf</p>
+<p>Dina 2: 380 gf</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Peso final:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>Dina 1: 410 gf</p>
+<p>Dina 2: 310 gf</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Intervalo de tempo:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>20</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>minutos</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>+/-10,0 s</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p></p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Raio de atuação da força de frenagem:</p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>39</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>mm</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>+/-1,0 mm</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Força medida no dinamômetro da alavanca:</p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>140</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>gf</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Rotação do Dinamômetro:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>640</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>rpm</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>?????</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p></p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p></p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="29%" style="width: 24.8115%;">
+<p>Pressão atmosférica:</p>
+<p></p>
+</td>
+<td width="27%" style="width: 17.0165%;">
+<p>97,87</p>
+</td>
+<td width="14%" style="width: 9.30084%;">
+<p>kPa</p>
+</td>
+<td width="29%" style="width: 13.6846%;">
+<p>+/-0,01 kPa</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>???? : para ser investigado através dos instrumentos de medição.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Dia:_<u>25/06/2021</u>_</p>\n<p>Hora:_<u>16:35</u>_</p>\n<table width=\"69.3281%\" cellpadding=\"4\" cellspacing=\"0\" style=\"width: 65.8109%;\" border=\"1\">\n<tbody>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p><strong>Leitura</strong></p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p><strong>Unidade</strong></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p><strong>Precisão</strong></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p></p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Corrente:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>9,9</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>A</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Tensão:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>220</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>volts</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Pressão na linha :</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>1,25</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>kgf/cm²</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p></p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Temperatura na saída do motor a vapor:</p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>99,1</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>oC</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p></p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Peso inicial:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>Dina 1: 480 gf</p>\n<p>Dina 2: 380 gf</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Peso final:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>Dina 1: 410 gf</p>\n<p>Dina 2: 310 gf</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Intervalo de tempo:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>20</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>minutos</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>+/-10,0 s</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p></p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Raio de atuação da força de frenagem:</p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>39</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>mm</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>+/-1,0 mm</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Força medida no dinamômetro da alavanca:</p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>140</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>gf</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Rotação do Dinamômetro:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>640</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>rpm</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>?????</p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p></p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p></p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p></p>\n</td>\n</tr>\n<tr valign=\"top\">\n<td width=\"29%\" style=\"width: 24.8115%;\">\n<p>Pressão atmosférica:</p>\n<p></p>\n</td>\n<td width=\"27%\" style=\"width: 17.0165%;\">\n<p>97,87</p>\n</td>\n<td width=\"14%\" style=\"width: 9.30084%;\">\n<p>kPa</p>\n</td>\n<td width=\"29%\" style=\"width: 13.6846%;\">\n<p>+/-0,01 kPa</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p>???? : para ser investigado através dos instrumentos de medição.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
